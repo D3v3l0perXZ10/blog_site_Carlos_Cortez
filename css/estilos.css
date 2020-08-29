@@ -3,19 +3,28 @@ body{
     font-style: italic ;
 }
 .main{
-    width: 60%;
+<<<<<<< HEAD
+    width: 80%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: burlywood ;
+    background-color: rgb(227, 252, 0);
 }
 h2{
 margin-top: 0px;
+<<<<<<< HEAD
 color: brown;
 }
 .encabezado{
     background-color: darkred;
     color: white;
+=======
+color: blue;
+}
+.encabezado{
+    background-color: cyan;
+    color: hsl(0, 96%, 51%);
+>>>>>>> header
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
